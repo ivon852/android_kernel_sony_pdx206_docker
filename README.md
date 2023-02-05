@@ -4,7 +4,7 @@ A Docker compatible Android kernel for Sony Xperia 5 II (pdx206).
 
 可透過Termux於Android手機原生執行Docker容器的Sony Xperia 5 II核心。
 
-This kernel adds supports for running Docker on Android. binfmt moudle is also included. It is based on [LineageOS kernel for sm8250](https://github.com/LineageOS/android_kernel_sony_sm8250)
+This kernel adds supports for running Docker containers on Android. binfmt module is also included. It is based on [LineageOS kernel for sm8250](https://github.com/LineageOS/android_kernel_sony_sm8250)
 
 ![](https://i.postimg.cc/3RDgdndZ/Screenshot-20230203-183742-Termux.png)
 
