@@ -11,9 +11,9 @@ This kernel adds supports for running Docker on Android. It is based on [Lineage
 
 ## Usage
 
-Tested on LineageOS 20 unofficial build. A prebuilt boot.img is available at [Releases]().
+Tested on LineageOS 20 unofficial build. A prebuilt boot.img is available at [Releases](https://github.com/ivon852/android_kernel_sony_pdx206_docker/releases).
 
-1. Flash the boot.img to `boot`
+1. Flash the boot.img to `boot` partition
 ```bash
 fastboot flash boot boot.img
 ```
