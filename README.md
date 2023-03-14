@@ -11,7 +11,7 @@ This kernel adds supports for running Docker containers on Android. binfmt modul
 
 ## Usage
 
-Tested on LineageOS 20 unofficial build. A prebuilt boot.img is available at [Releases](https://github.com/ivon852/android_kernel_sony_pdx206_docker/releases).
+Tested on LineageOS 20. A prebuilt boot.img is available at [Releases](https://github.com/ivon852/android_kernel_sony_pdx206_docker/releases).
 
 1. Flash the boot.img to `boot` partition
 ```bash
@@ -66,3 +66,5 @@ mka bootimage
 ## See also
 
 [Freddie Oliveira's Tutorial of running Docker on Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
+
+[[Root] Running Docker containers and Flatpak apps on Android phone with Termux](https://ivonblog.com/en-us/posts/sony-xperia-5-ii-docker-kernel/)
